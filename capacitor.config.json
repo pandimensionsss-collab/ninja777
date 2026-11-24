@@ -1,0 +1,6 @@
+{
+  "appId": "pl.mojdzien.app",
+  "appName": "Mój Dzień",
+  "webDir": "www",
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
